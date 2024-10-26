@@ -1,1 +1,2 @@
-I have created CV in HTML .
+I have created Resume in HTML.
+
